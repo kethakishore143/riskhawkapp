@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/riskhawkapp/static/css/main.23b18ff4.css",
+    "main.js": "/riskhawkapp/static/js/main.793b900f.js",
+    "static/js/453.8bddae55.chunk.js": "/riskhawkapp/static/js/453.8bddae55.chunk.js",
+    "index.html": "/riskhawkapp/index.html",
+    "main.23b18ff4.css.map": "/riskhawkapp/static/css/main.23b18ff4.css.map",
+    "main.793b900f.js.map": "/riskhawkapp/static/js/main.793b900f.js.map",
+    "453.8bddae55.chunk.js.map": "/riskhawkapp/static/js/453.8bddae55.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.23b18ff4.css",
+    "static/js/main.793b900f.js"
+  ]
+}

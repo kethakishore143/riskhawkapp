@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/riskhawkapp/static/css/main.98590d2f.css",
+    "main.css": "/riskhawkapp/static/css/main.bc7b7d56.css",
     "main.js": "/riskhawkapp/static/js/main.8a3b6322.js",
     "static/js/453.8bddae55.chunk.js": "/riskhawkapp/static/js/453.8bddae55.chunk.js",
     "index.html": "/riskhawkapp/index.html",
-    "main.98590d2f.css.map": "/riskhawkapp/static/css/main.98590d2f.css.map",
+    "main.bc7b7d56.css.map": "/riskhawkapp/static/css/main.bc7b7d56.css.map",
     "main.8a3b6322.js.map": "/riskhawkapp/static/js/main.8a3b6322.js.map",
     "453.8bddae55.chunk.js.map": "/riskhawkapp/static/js/453.8bddae55.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.98590d2f.css",
+    "static/css/main.bc7b7d56.css",
     "static/js/main.8a3b6322.js"
   ]
 }
